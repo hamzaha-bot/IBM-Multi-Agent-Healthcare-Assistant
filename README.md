@@ -6,9 +6,12 @@ A prototype AI assistant built to make employee healthcare and dental benefits e
 
 > **Project status:** Completed and demonstrated during the IBM SkillsBuild lab. The IBM trial has since expired, so the agents are not currently available as a live public application. The recorded demo and screenshots document the original working prototype.
 
+
 ## Watch the project demo
 
-[Watch the narrated demonstration (MP4)](demo/IBM-AI-Project-Demo.mp4)
+[![Watch the IBM Multi-Agent Healthcare Assistant Demo](demo/video-thumbnail.png)](demo/IBM-AI-Project-Demo.mp4)
+
+**[▶ Watch the narrated demonstration (MP4)](demo/IBM-AI-Project-Demo.mp4)**
 
 ## Technical Documentation
 
