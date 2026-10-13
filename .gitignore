@@ -1,0 +1,12 @@
+
+# Windows system files
+desktop.ini
+Thumbs.db
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Environment and sensitive files
+.env
+.env.*
